@@ -5,7 +5,7 @@ development:
   database: demo_blog_app
   pool: 5
   username: root
-  password: 
+  password: Dat123456@
 
 
 # Warning: The database defined as "test" will be erased and
